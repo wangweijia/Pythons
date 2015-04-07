@@ -1,0 +1,2 @@
+print "adfasdf",12
+
